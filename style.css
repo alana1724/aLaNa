@@ -1,24 +1,24 @@
-
-.cabecalho {
-    background-color: #f17908;
-    color: rgb(14, 7, 7);
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 24px 0;
+*{
+    margin: 0;
+    padding: 0;
 }
 
-.cabecalho-imagem{
-    width: 20%;
+
+.cabecalho {
+    background-color: #f1a808;
+    color: rgb(22, 5, 5);
+    display: flex;
+    justify-content: space-around;
+}
+cabecalho-imagem{
+
+
+width: 20%;
 }
 
 .cabecalho-lista-item{
-    display: inline-block;
+    display: inline-block
     margin: 0 16px;
-    font-size: 24px;
 }
 
-
-
- 
-
+    
